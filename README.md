@@ -14,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriram-17&" alt="shriram-17" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrriam-17&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrriam-17&hide_progress=true)](https://github.com/shriram_17/github-readme-stats)
